@@ -1,0 +1,5 @@
+(use 'midje.test)
+(use 'midje)
+(autotest)
+(use 'midje.repl)
+(autotest)
